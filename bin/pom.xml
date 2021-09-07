@@ -36,7 +36,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>simplilearnproject</finalName>
 	</build>
 
 </project>
